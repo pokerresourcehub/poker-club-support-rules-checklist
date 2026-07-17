@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pokerresourcehub.github.io/poker-club-support-rules-checklist/sitemap.xml
